@@ -6,4 +6,4 @@ A LaTeX template for homework assignments.
 
 Matthew Andres Moreno
 
-`matthew.andres.moreno@gmail.com`
+`m.more500@gmail.com`
